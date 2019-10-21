@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/folder.svg</file>
+        <file>icons/file.svg</file>
+        <file>icons/go-previous.svg</file>
+        <file>icons/go-up.svg</file>
+        <file>icons/user-home.svg</file>
+        <file>icons/view-refresh.svg</file>
+        <file>icons/document-edit.svg</file>
+        <file>icons/view-list-details.svg</file>
+        <file>icons/view-list-icons.svg</file>
+        <file>icons/tab-new.svg</file>
+        <file>icons/window-close.svg</file>
+        <file>icons/application-exit.svg</file>
+        <file>icons/document-new.svg</file>
+        <file>icons/folder-new.svg</file>
+        <file>icons/edit-copy.svg</file>
+        <file>icons/edit-cut.svg</file>
+        <file>icons/edit-delete.svg</file>
+        <file>icons/edit-paste.svg</file>
+        <file>icons/edit-select-all.svg</file>
+        <file>icons/user-trash.svg</file>
+        <file>icons/help-about.svg</file>
+        <file>icons/system-file-manager.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=CppExplorer
+Exec=CppExplorer
+Icon=system-file-manager
+Terminal=false
+Categories=System 
